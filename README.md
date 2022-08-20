@@ -3,8 +3,10 @@
 
 ### **Предварительные условия**
 **1.** Установить и открыть Android Studio:
-Установочный файл:[по ссылке](https://developer.android.com/studio)
-Инструкция по установке:[по ссылке](https://github.com/netology-code/guides/blob/master/android/android_studio/instruction1.md)
+
+Установочный файл: [по ссылке](https://developer.android.com/studio)
+
+Инструкция по установке: [по ссылке](https://github.com/netology-code/guides/blob/master/android/android_studio/instruction1.md)
 
 **2.** Установить приложение "Мобильный хоспис" на мобильное устройство.
    Данные для авторизации:
